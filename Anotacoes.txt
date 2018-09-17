@@ -33,7 +33,7 @@ git rm --cached *
 //Realiza a submissao dos arquivos que estão em monitoramento
 // -m ==> Mensagem
 git commit -m "mensagem do commit"
-
+haha
 //Mostra o ħistorico de commit's
 git log
 
